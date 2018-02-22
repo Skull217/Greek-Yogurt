@@ -63,7 +63,7 @@ label ch2_main:
     y "A-Ah!"
     y "I wasn't listening or anything--!"
     y 3o "It was just...something in my book..."
-    mc "What are you, a modern day gossip magazine directed at pregnant women who are to old to be pregnant? Mind your own damn fucking bussiness."
+    mc "What are you, a modern day gossip magazine directed at pregnant women who are too old to be pregnant? Mind your own damn fucking bussiness."
     show sayori at f32 zorder 3
     s 1h "Yuriiii..."
     s "Tell [player] to let me borrow some money..."
@@ -76,7 +76,7 @@ label ch2_main:
     y 1k "You should only buy what you can responsibly afford..."
     y "And frankly, after pulling a mischievous little stunt like that, your suffering is fair enough retribution."
     "I think she should suffer more."
-    "That not fucking whore"
+    "That fucking whore"
     "Wait what the fuck am I insinuating?"
     "Have I really become that much of a fucking degenerate?"
     "Fucking disgusting."
@@ -116,13 +116,13 @@ label ch2_main:
     show sayori at t32 zorder 2
     mc "Don't let her fool you."
     mc "Sayori knows exactly what she's doing."
-    mc "After all, she told you guys she was bringing me to the club before she even told me..."
+    mc "After all, she was captain of the 5th Spetsnaz Brigade."
     show sayori at f32 zorder 3
     s 1h "B-But...!"
     s "You wouldn't have come if it weren't for the cupcakes..."
     s "So I had to trick Natsuki into making them!"
     show sayori at t32 zorder 2
-    mc "Come on, give me more credit than that, Sayori."
+    mc "I didn't say jack shit about cup cakes you bleeding cunt fuck."
     show sayori at f32 zorder 3
     s 1l "Ehehe..."
     play sound "sfx/slap.ogg"
@@ -134,16 +134,19 @@ label ch2_main:
     hide white
     s 4p "Kyaa--!"
     "Out of nowhere, something smacks Sayori in the face and tumbles onto the desk."
+    mc "Haha fucking powned."
+    mc "Get naenaed whore."
     s 4j "Ow..."
     s "What was--"
     s 4n "Eh??"
     s "A-A cookie!"
     "Sure enough, it's a giant cookie wrapped in plastic."
+    "I wish it was a fucking brick"
     "Sayori glances around."
     s 4m "I-Is this a miracle??"
     s "It's because I paid my restitution!"
     show sayori at t32 zorder 2
-    mc "Retribution..."
+    mc "Retribution you illeterate fucking autist."
     show sayori 4n
     show yuri at f33 zorder 3
     y 1u "Actually, that one almost worked..."
@@ -153,6 +156,7 @@ label ch2_main:
     n "I {i}was{/i} just gonna give it to you."
     n 3d "But then I heard you blab about the cupcakes."
     n "It was totally worth seeing your reaction, though. Ahaha!"
+    mc "Hey natsuki how about you crawl back to the preschool you escaped from you jail bait piece of truffle butter."
     show natsuki at t31 zorder 2
     show sayori at f32 zorder 3
     s 4m "N-Natsuki!"
@@ -160,19 +164,24 @@ label ch2_main:
     s 4s "I'm so happy..."
     "Sayori hugs the cookie."
     show sayori at t32 zorder 2
-    mc "Jeez, just eat it..."
+    mc "Jeez, just eat it you stupid fuck."
     "Sayori rapidly tears open the wrapper and takes a big bite."
+    mc "Oh so n o w you can open your mouth that wide. Figures."
     show sayori at f32 zorder 3
     s 4q "Sho good..."
+    mc "Jesus didn't your grandma ever teach you basic fucking table manners?"
     show sayori at hf32 zorder 3
     s 4o "Mmf--!"
     "Sayori suddenly clasps her hands over her mouth."
     s 4p "I bit my tongue..."
+    mc "That's what you get for eating like a crazed Ethiopian."
     show sayori at t32 zorder 2
     show natsuki at f31 zorder 3
     n 3a "Ehehe."
     n "You're going through a lot over just one cookie."
     "Natsuki takes a bite of her own cookie."
+    "I take a bite of natsuki"
+    "Tastes like faggot."
     show natsuki at t31 zorder 2
     show sayori at f32 zorder 3
     s 1c "Ah, yours looks really good too, Natsuki!"
@@ -194,12 +203,19 @@ label ch2_main:
     s "Ehehe~"
     show sayori at t21 zorder 2 behind natsuki
     "Sayori gets out of her seat and goes behind Natsuki, then wraps her arms around her."
+    mc "How many times do i have to tell you to stop being a total fucking faggot?"
+    s "Shut up cock guzzler."
+    mc "Holy shit someone actually understood me for once????"
     n 12c "Ah-- Jeez..."
     n "I get it, I get it."
     "Cookie still in hand, Natsuki reaches up to nudge Sayori off of her."
     show sayori 1n at h21
+    "Yo what the fuck you dykes can't just acknowledge me and then go back to acting like i fucked off to the Shadow Realm"
     s "...{i}Om.{/i}"
+    "I give up. I actually fucking give up. They're crazy. It's official."
     "Sayori suddenly leans down and takes a bite out of Natsuki's cookie."
+    "Sayori kisses Natsuki gently on the cheek before giving her neck a playful bite."
+    mc "Yo, wHaT tHe {i}f u c k{/i}?"
     n 1p "{i}H-Hey!!{/i}"
     n "Did you seriously just do that?!"
     s 1q "Uhuhuhu!"
@@ -207,7 +223,9 @@ label ch2_main:
     hide sayori
     "Mouth full, Sayori trots away to safety."
     show yuri 1c
-    "Yuri and I laugh as well."
+    "Yuri laughs as well."
+    mc "Jesus Christ the amount of homo in the class is reaching Heathers 2018 TV reboot levels."
+    "Suicide is starting to look like a viable option at this point."
     show yuri 1a
     show natsuki at f31 zorder 3
     n 1w "Jeez! You're such a kid sometimes!"
